@@ -4,6 +4,14 @@ body {
 
 }
 
+a {
+  font-size: 2em;
+  color: white;
+}
+
+.cats a {
+  font-size: 1em;
+}
 .cats p {
   font-style: italic;
 }
