@@ -1,0 +1,50 @@
+body {
+  width: 90%;
+  background-color: grey;
+
+}
+
+img {
+  float: left;
+}
+
+.column {
+  width: 400px;
+  float: left;
+}
+
+.background1 {
+  margin: 4px;
+  padding: 3px;
+  background-color: red;
+}
+
+.background2 {
+  margin: 4px;
+  padding: 3px;
+  background-color: orange;
+}
+
+.background3 {
+  margin: 4px;
+  padding: 3px;
+  background-color: green;
+}
+
+.background4 {
+  margin: 4px;
+  padding: 3px;
+  background-color: blue;
+}
+
+.background5 {
+  margin: 4px;
+  padding: 3px;
+  background-color: yellow;
+}
+
+.background6 {
+  margin: 4px;
+  padding: 3px;
+  background-color: violet;
+}
